@@ -1,0 +1,9 @@
+
+
+-----------
+star wars characters
+
+http://swapi.co/api/people/
+
+-----------
+

@@ -1,0 +1,22 @@
+
+
+
+
+1. poll everywhere
+
+https://pollev.com/patrickhowar106
+
+2. postman app
+
+https://www.getpostman.com/
+
+3. test the post man app
+
+> google
+
+> https://swapi.co/api/people/1
+
+
+
+
+

@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>JavaScript Object Review</title>
+  </head>
+  <body>
+    
+    <h1>Open Your Chrome Dev Tool for the Goodness</h1>
+
+    <script type="text/javascript">
+      var customer = {
+        firstName: "Sally",
+        lastName: "West",
+        title: "Software Engineer",
+        age: 30,
+        company: "Acme Engineering",
+        address: {
+          streetAddress: "100 Main Street",
+          city: "Charlotte",
+          state: "NC",
+          postalCode: "28211"
+        },
+        phoneNumber: [
+          {
+            type: "mobile",
+            number: "704-222-2222"
+          }, {
+            type: "work",
+            number: "704-444-4444"
+          }
+        ]
+      };
+      // Log various properities of the object
+      console.log(customer.firstName);
+      
+      console.log(customer.lastName);
+      
+      console.log(customer.address.state);
+      
+      console.log(customer.phoneNumber[0].number);
+      
+      console.log(customer.phoneNumber[1].number);
+      
+    </script>
+
+  </body>
+</html>
